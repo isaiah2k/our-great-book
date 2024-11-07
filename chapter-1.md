@@ -149,7 +149,7 @@ console.log(greeting)
 
 Template literals in JavaScript offer a cleaner, and more efficient way to handle string interpolation. Between building web content, logging messages, or creating more readable code, this method provides the flexibility you need.
 
-Next time your juggling with variables and strings, try using template literals. You'll quickly see why it's my go-to method for working with JavaScript.
+Next time your dealing with variables and strings, try using template literals. You'll quickly see why it's my go-to method for working with JavaScript.
 
 #### Resources
 

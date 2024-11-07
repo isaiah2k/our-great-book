@@ -156,3 +156,5 @@ Next time your juggling with variables and strings, try using template literals.
 1. MDN Web Docs - [Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 2. GitHub - [Phase 1 Review Strings Lab](https://github.com/learn-co-curriculum/phase-1-review-strings-lab/blob/master/README.md)
 3. W3 Schools - [JavaScript Template Strings](https://www.w3schools.com/js/js_string_templates.asp)
+ 
+Thank you for reading.
